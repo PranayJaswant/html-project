@@ -1,4 +1,4 @@
-# Types of Cars - Pure HTML Project
+# Types of Cars - HTML Project
 
 A simple, multi-page website built strictly using *HTML5*. This project showcases the fundamental building blocks of web development without the use of CSS or JavaScript.
 
